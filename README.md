@@ -23,4 +23,4 @@ If you want to use this package for bootstrap less you have to some additional, 
 **3. Make sure you have an importing main style.less file**
 
     // style.less file
-    @import 'packages/less-boostrap-3/lib/less/bootstrap.import.less';
+    @import 'packages/less-bootstrap-3/lib/less/bootstrap.import.less';
