@@ -7,7 +7,7 @@ For my [stylesheet boiler](https://github.com/DerMambo/stylesheets.git) and crea
 
 
 ###Use Without Stylesheet Boiler
-If you want to use this package for bootstrap less you have to some additional, simple steps:
+If you want to use this package for bootstrap less you have to do some additional, simple steps:
 
 **1. Add the less compiler**
     
