@@ -3,7 +3,7 @@
   "description": "Adds the less version of bootstrap 3",
   "homepage": "https://github.com/DerMambo/less-bootstrap-3.git",
   "author": "Manuel Schoebel (http://manuel-schoebel.com)",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "git": "https://github.com/DerMambo/less-bootstrap-3.git",
   "packages": {}
 }
